@@ -191,6 +191,6 @@ async def restart(e):
 
 
 print("\n\n")
-print("Your Ban All Bot Deployed Successfully ✅ jaaa ab pel le bete!!! ")
+print("✨𝐍𝐎𝐎𝐁_𝐒𝐀𝐕𝐕𝐘✨ Bot Deployed Successfully ✅ jaaa ab pel le bete!!! ")
 
 Riz.run_until_disconnected()
