@@ -1,8 +1,8 @@
 {
    "name": "𝐍𝐎𝐎𝐁_𝐒𝐀𝐕𝐕𝐘",
    "description": "POWERFULLY BAN ALL BOT",
-   "repository": "https://github.com/noob-savvy/BANALLBOT",
-   "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+   "repository": "https://github.com/noob-savvy/Ban-all",
+   "logo": "https://te.legra.ph/file/7d886c6c27ceaa36a96c9.png",
    "image": "heroku/python",
    "env": {
       "API_ID": {
