@@ -50,6 +50,8 @@ print("Starting.....")
 
 Riz = TelegramClient('Riz', Var.API_ID, Var.API_HASH).start(bot_token=Var.BOT_TOKEN)
 
+from app import keep_alive
+keep_alive()
 
 SUDO_USERS = []
 for x in Var.SUDO: 
