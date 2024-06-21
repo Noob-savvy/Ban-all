@@ -2,7 +2,7 @@
 
 ![𝐍𝐎𝐎𝐁_𝐒𝐀𝐕𝐕𝐘](https://te.legra.ph/file/7d886c6c27ceaa36a96c9.png)<!-- Add your bot's logo here -->
 
-Welcome to the Telegram Ban All Bot, created by @oxyhu. This bot is designed to streamline administrative tasks in your Telegram group, making it easier to manage your community.
+Welcome to the Telegram Ban All Bot, created by Noob Savvy. This bot is designed to streamline administrative tasks in your Telegram group, making it easier to manage your community.
 
 ## Features
 
